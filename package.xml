@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+ <name>TestPrefPack</name>
+ <description>this does not have a description yet</description>
+ <version>0.0.1</version>
+ <maintainer email="nomail@freecad.org">ADDME</maintainer>
+ <license file="LICENSE">GPLv3</license>
+ <url type="repository" branch="main">https://github.com/None/None</url>
+ <icon>resources/icons/test_icon.svg</icon>
+
+<content>
+  <preferencepack>
+    <name>MyPrefPack</name>
+    <description>this is a description</description>
+    <tag>THISISATAG</tag>
+    <tag>stylesheet</tag>
+    <tag>preference_pack</tag>
+    <file>test_stylesheet.qss</file>
+    <file>pre.FCMacro</file>
+    <file>post.FCMacro</file>
+  </preferencepack>
+</content>
+
+</package>

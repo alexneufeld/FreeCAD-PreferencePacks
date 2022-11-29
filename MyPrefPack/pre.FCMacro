@@ -1,0 +1,3 @@
+# this file is run before the preference pack is applied
+import FreeCAD
+FreeCAD.Console.PrintLog("running the pre file!\n")

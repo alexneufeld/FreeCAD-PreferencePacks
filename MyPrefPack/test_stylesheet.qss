@@ -1,0 +1,9 @@
+/*
+comments go in c-style blocks
+*/
+
+/* syntax is very css-like */
+
+Gui--WorkbenchComboBox {
+  background-color: #00ff00;
+}
